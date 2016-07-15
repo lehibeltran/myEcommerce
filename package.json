@@ -1,0 +1,29 @@
+{
+  "name": "myecommerce",
+  "version": "1.0.0",
+  "description": "ecommerce challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lehibeltran86/myEcommerce.git"
+  },
+  "keywords": [
+    "noobing"
+  ],
+  "author": "lehi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lehibeltran86/myEcommerce/issues"
+  },
+  "homepage": "https://github.com/lehibeltran86/myEcommerce#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.7.1",
+    "express": "^4.14.0",
+    "mongojs": "^2.4.0"
+  }
+}
